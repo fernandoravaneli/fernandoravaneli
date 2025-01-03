@@ -33,14 +33,11 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/fernando-ravaneli/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ravaneli_fernando/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernando-ravaneli/"><img height="35" alt="instagram" title="instagram" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/ravaneli_fernando/"><img height="35" alt="instagram" title="instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"/></a>
+</p>
 
 ###
 
