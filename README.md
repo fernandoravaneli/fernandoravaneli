@@ -24,7 +24,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+<!--   <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /> -->
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
   <img width="12" />
