@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-taupe-sigma.vercel.app/api/top-langs?username=fernandoravaneli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-sandy.vercel.app?user=fernandoravaneli&theme=dracula&hide_border=true&border_radius=5&mode=weekly&exclude_days=Sun%2CSat" height="150" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats-nine-sandy.vercel.app?user=fernandoravaneli&theme=dracula&hide_border=true&border_radius=5&mode=weekly&exclude_days=Sun%2CSat" height="150" alt="GitHub Streak" /></a>
 </div>
 
 ###
